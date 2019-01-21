@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\7736e4bce9f33e018144d2fb713979cf\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\3265f15cf2e264729978d2702d400ddd\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\0c4c73e0ad8ae451f0462f285c0b981f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\8b9c2a805ef9d22d2aae853e0195a75d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\c1f4adeda2e24a3b232f8cab7d492211\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\e6c8b9ecf6f4b199ffc91d8e585f1bce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\c270c62c8638dfaeb1fd6e48a4091fe5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\10c806d9ed7d9c1707b4173fca5be595\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\d6dfea6fa08f73cfcbb25a92fcb18a9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\0d4f9b6da41b0ee0a0cecc56d75cbded\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\2e0a5fbeee5e01a50a20bb92f17a7a54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\af637915a5a068fa418b337a524f50d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\eb3b70e651d318ae3d8c598d59b91f78\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\b05d865b4b6678dd789738749a7cf9fd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\e30685141d14edb8c0483cd11bf9d44f\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:5:5-22:19
+	android:supportsRtl
+		ADDED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.myhexaville.login.MainActivity
+ADDED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:11:9-21:20
+	android:screenOrientation
+		ADDED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:14:13-49
+	android:label
+		ADDED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:13:13-45
+	android:theme
+		ADDED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:12:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\7736e4bce9f33e018144d2fb713979cf\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\7736e4bce9f33e018144d2fb713979cf\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\3265f15cf2e264729978d2702d400ddd\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\3265f15cf2e264729978d2702d400ddd\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\0c4c73e0ad8ae451f0462f285c0b981f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\0c4c73e0ad8ae451f0462f285c0b981f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\8b9c2a805ef9d22d2aae853e0195a75d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\8b9c2a805ef9d22d2aae853e0195a75d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\c1f4adeda2e24a3b232f8cab7d492211\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\c1f4adeda2e24a3b232f8cab7d492211\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\e6c8b9ecf6f4b199ffc91d8e585f1bce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\e6c8b9ecf6f4b199ffc91d8e585f1bce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\c270c62c8638dfaeb1fd6e48a4091fe5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\c270c62c8638dfaeb1fd6e48a4091fe5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\10c806d9ed7d9c1707b4173fca5be595\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\10c806d9ed7d9c1707b4173fca5be595\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\d6dfea6fa08f73cfcbb25a92fcb18a9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\d6dfea6fa08f73cfcbb25a92fcb18a9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\0d4f9b6da41b0ee0a0cecc56d75cbded\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\0d4f9b6da41b0ee0a0cecc56d75cbded\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\2e0a5fbeee5e01a50a20bb92f17a7a54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\2e0a5fbeee5e01a50a20bb92f17a7a54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\af637915a5a068fa418b337a524f50d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\af637915a5a068fa418b337a524f50d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\eb3b70e651d318ae3d8c598d59b91f78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\eb3b70e651d318ae3d8c598d59b91f78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\b05d865b4b6678dd789738749a7cf9fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\b05d865b4b6678dd789738749a7cf9fd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\e30685141d14edb8c0483cd11bf9d44f\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\e30685141d14edb8c0483cd11bf9d44f\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\log\Android-Login-Screen-master\app\src\main\AndroidManifest.xml
